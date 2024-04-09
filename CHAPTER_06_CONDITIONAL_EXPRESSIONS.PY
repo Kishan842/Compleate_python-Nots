@@ -44,9 +44,8 @@ else:
 
 '''Logical Operators'''
 age = int(input("Enter your age: "))
-if(age>18 and age<60): # 18> sika matlab 18 se jyada <60 se kam
+if(age>18 and age<60):
     print("You can work with us")
-
 else:
     print("You can not work with us")
 
