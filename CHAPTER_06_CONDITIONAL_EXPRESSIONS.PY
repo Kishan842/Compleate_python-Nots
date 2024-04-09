@@ -15,7 +15,7 @@ else:
 
 '''2. Multiple if statment'''
 num = 85
-if (num<3):
+if(num<3):
     print("The Value of num is greter than 3")
 
 if(num<13):
