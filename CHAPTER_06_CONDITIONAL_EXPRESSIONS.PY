@@ -1,37 +1,3 @@
-'''1. if-elif-else ladder'''
-Number = 3 # More Example:- Number = 15,56,2,4,53,78,100, take any number
-if (Number>3):
-    print("The Value of Number is greter than 3")
-elif(Number>13):
-    print("The Value of Number is greter than 13")
-elif(Number>7):
-    print("The Value of Number is greter than 7")
-elif(Number>17):
-    print("The Value of Number is greter than 17")
-else:
-    print("The value is not greter than of any number")
-
-# ---------------------------------------------------------------------------------------------------------------------------- #
-
-'''2. Multiple if statment'''
-num = 85
-if(num<3):
-    print("The Value of num is greter than 3")
-
-if(num<13):
-    print("The Value of num is greter than 13")
-
-if(num<7):
-    print("The Value of num is greter than 7")
-
-if(num>17):
-    print("The Value of num is greter than 17")
-
-else:
-    print("The value is not greter than of any number")
-
-# ---------------------------------------------------------------------------------------------------------------------------- #
-
 '''Quick quize: Write a program to print yes when the age enterd
 by the user is greter then or equal to 18'''
 age = int(input("Enter your age: "))
@@ -88,5 +54,39 @@ while(c!=3):
         print("Encorexct pin")
 else:
     print("\n\t\tCard block")
+
+# ---------------------------------------------------------------------------------------------------------------------------- #
+
+'''1. if-elif-else ladder'''
+Number = 3 # More Example:- Number = 15,56,2,4,53,78,100, take any number
+if (Number>3):
+    print("The Value of Number is greter than 3")
+elif(Number>13):
+    print("The Value of Number is greter than 13")
+elif(Number>7):
+    print("The Value of Number is greter than 7")
+elif(Number>17):
+    print("The Value of Number is greter than 17")
+else:
+    print("The value is not greter than of any number")
+
+# ---------------------------------------------------------------------------------------------------------------------------- #
+
+'''2. Multiple if statment'''
+num = 85
+if(num<3):
+    print("The Value of num is greter than 3")
+
+if(num<13):
+    print("The Value of num is greter than 13")
+
+if(num<7):
+    print("The Value of num is greter than 7")
+
+if(num>17):
+    print("The Value of num is greter than 17")
+
+else:
+    print("The value is not greter than of any number")
 
 # ---------------------------------------------------------------------------------------------------------------------------- #
