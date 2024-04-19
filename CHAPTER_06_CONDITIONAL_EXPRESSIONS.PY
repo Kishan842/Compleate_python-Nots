@@ -70,7 +70,7 @@ a = 66 #Ex:- 63, 4, 86, 2, 3,.
 if(a==7):
     print("Yes")
 elif(a>56):
-    print("No and yos")
+    print("No and yes")
 else:
     print("I am optional")
 
